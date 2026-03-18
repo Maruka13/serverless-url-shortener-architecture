@@ -76,6 +76,11 @@ Handles URL resolution and redirection:
 
 ---
 
+## 🧠 Architecture Overview
+![Architecture](docs/architecture-diagram.png)
+
+---
+
 ## 🔎 Request Flow
 
 ### 🔗 URL Creation
